@@ -6,5 +6,6 @@ public class Main2 {
         System.out.println("bbb");
         System.out.println("bbb");
         System.out.println("bbb");
+        System.out.println("bbb");
     }
 }
